@@ -1,17 +1,17 @@
 # Hi, I'm Ben
 
-I build practical tools at the intersection of AI, systems, and real-world problems.
+I build practical tools using AI, systems, and data to solve real-world problems.
 
-## What I'm focused on
+## Interests
 
 - AI-assisted tools and agent workflows
-- Data-driven products with clear real-world use cases
-- Systems that turn messy inputs into useful decisions
+- Data-driven systems with clear practical use
+- Products that turn noisy inputs into useful decisions
 
-## Projects
+## Selected Projects
 
-- [Revere](https://github.com/picturesuo/revere) - Chrome-based website change monitoring with near-real-time phone alerts through `ntfy`.
-- [CS50 First Ever Project](https://github.com/picturesuo/CS50-first-ever-project) - Early public project that shows where I started and how I think about building.
+- [Revere](https://github.com/picturesuo/revere) - Chrome extension for monitoring live website changes and sending fast alerts.
+- [CS50 First Ever Project](https://github.com/picturesuo/CS50-first-ever-project) - Early public work that shows where I started as a builder.
 
 ## Currently
 
