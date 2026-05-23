@@ -8,7 +8,7 @@ I'm Ben Suo, an 18 year old Minnesotan at Harvard.
 
 ## Some examples
 
-- [Pretick](https://github.com/picturesuo/pretick) - Investing platform that automatically flags you or trades for you according to your investing philosophy and rules. Works for both the stock market as well as Kalshi.
+- [Pretick](https://github.com/picturesuo/pretick) - Platform that provides a new and automatic model for investing in both stocks as well as prediction markets. 
 - [Revere](https://github.com/picturesuo/revere) - Chrome extension for monitoring live website changes and sending fast alerts to your phone.
 - [git-ghostty-codex-launchpad](https://github.com/picturesuo/git-ghostty-codex-launchpad) - macOS Ghostty launcher that starts a multi-pane Codex workflow with role-based prompts.
 - [Creativity Game: Mine](https://github.com/picturesuo/creativity-game-mine) - Experimental browser mining game built for a homework assignment focused on remixing to get around copywrite.
