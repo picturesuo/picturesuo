@@ -1,4 +1,4 @@
-I'm Ben Suo, an 18 year old Minnesotan at Harvard.
+I'm Ben Suo, an 19 year old Minnesotan at Harvard.
 
 ## I'm interested in 
 
