@@ -8,6 +8,7 @@ I'm Ben Suo, an 19 year old Minnesotan at Harvard.
 
 ## Some examples
 
+- [WorkFlow]
 - [Automony](https://github.com/picturesuo/automony) - Platform that provides a new model for investing in both stocks as well as prediction markets. 
 - [Pretick](https://github.com/picturesuo/pretick) - To celebrate no more PDT, automatic trading agent.
 - [Sherlock](https://github.com/picturesuo/sherlock) - Contains two agents: (1) Sherlock clicks through your app, maps what it finds, times it, and sends the case to ChatGPT Pro or Claude Ultrathink; (2) Watson waits and turns the result into a clear plan you can taper and ship.
